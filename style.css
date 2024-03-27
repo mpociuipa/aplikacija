@@ -1,0 +1,95 @@
+.page {
+  display: flex;
+  width: 90%;
+  height: 30vh;
+  background: url(./sven-mieke-jO6vBWX9h9Y-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 4%;
+  border: 10px solid rgba(255, 255, 255, 0.596);
+}
+
+.lemon {
+  display: flex;
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  border-radius: 40% 15% 40% 15%;
+  margin-left: 70px;
+}
+
+.black {
+  color: white;
+  font-weight: 700;
+  background-color: black;
+  width: 65px;
+  height: 50px;
+  padding: 5px;
+  margin-left: 80px;
+}
+
+.price {
+  display: flex;
+  font-weight: 700;
+  font-size: 5rem;
+  margin-left: -120px;
+}
+
+.euro1 {
+  margin-top: 95px;
+  font-weight: 800;
+  font-size: 1.3rem;
+}
+
+.euro2 {
+  margin-top: 115px;
+  font-weight: 800;
+  margin-left: -15px;
+  font-size: 1.3rem;
+}
+
+.euro3 {
+  margin-top: 135px;
+  font-weight: 800;
+  margin-left: -17px;
+  font-size: 1.3rem;
+}
+
+.text {
+  display: flex;
+  font-weight: 500;
+  color: white;
+  font-size: 2rem;
+  margin-top: -20px;
+  margin-left: 100px;
+  margin-right: 300px;
+}
+
+span {
+  color: yellow;
+}
+
+.lemon1 {
+  display: flex;
+  background-color: yellow;
+  width: 60px;
+  height: 50px;
+  text-align: center;
+  padding: 30px 10px 0px 10px;
+  font-weight: 900;
+  font-size: 1rem;
+  border-radius: 40% 15% 40% 15%;
+  border: 10px solid black;
+  margin-right: -150px;
+  margin-top: -20px;
+}
+
+button {
+  background-color: orange;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-weight: 800;
+  font-size: 1rem;
+  margin-top: 170px;
+}/*# sourceMappingURL=style.css.map */
